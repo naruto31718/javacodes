@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="KotlinJavaRuntime">
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+  <library name="KotlinJavaRuntime (10)">
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+  <library name="KotlinJavaRuntime (2)">
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+  <library name="KotlinJavaRuntime (3)">
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+  <library name="KotlinJavaRuntime (4)">
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+  <library name="KotlinJavaRuntime (5)">
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+  <library name="KotlinJavaRuntime (6)">
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+  <library name="KotlinJavaRuntime (7)">
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+  <library name="KotlinJavaRuntime (8)">
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+  <library name="KotlinJavaRuntime (9)">
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Users/vk317/AppData/Roaming/JetBrains/IdeaIC2021.1/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+</eclipse-userlibraries>
+

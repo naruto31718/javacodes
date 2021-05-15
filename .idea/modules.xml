@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Prep_questions/Prep_questions.iml" filepath="$PROJECT_DIR$/Prep_questions/Prep_questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algotoolbox/algotoolbox.iml" filepath="$PROJECT_DIR$/algotoolbox/algotoolbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brickbreaker/brickbreaker.iml" filepath="$PROJECT_DIR$/brickbreaker/brickbreaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functionalprogramming/functionalprogramming.iml" filepath="$PROJECT_DIR$/functionalprogramming/functionalprogramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genrics/genrics.iml" filepath="$PROJECT_DIR$/genrics/genrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gfgsums/gfgsums.iml" filepath="$PROJECT_DIR$/gfgsums/gfgsums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gkick/gkick.iml" filepath="$PROJECT_DIR$/gkick/gkick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphs/graphs.iml" filepath="$PROJECT_DIR$/graphs/graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerearth/hackerearth.iml" filepath="$PROJECT_DIR$/hackerearth/hackerearth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank/hackerrank.iml" filepath="$PROJECT_DIR$/hackerrank/hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jee/jee.iml" filepath="$PROJECT_DIR$/jee/jee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn/learn.iml" filepath="$PROJECT_DIR$/learn/learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prac/prac.iml" filepath="$PROJECT_DIR$/prac/prac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepbytes/prepbytes.iml" filepath="$PROJECT_DIR$/prepbytes/prepbytes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vk.iml" filepath="$PROJECT_DIR$/.idea/vk.iml" />
+    </modules>
+  </component>
+</project>
